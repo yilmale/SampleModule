@@ -1,0 +1,4 @@
+name = "SampleModule"
+uuid = "1e812adc-e85a-4424-b15a-f44f48f50046"
+authors = ["yilmale <yilmale@auburn.edu>"]
+version = "0.1.0"
